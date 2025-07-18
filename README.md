@@ -57,9 +57,13 @@ Este projeto foi construído utilizando as seguintes tecnologias e pacotes:
 |:---------:|:-------:|:----------------:|
 | <img src="screenshots/favorites-screen.jpg" width="250"/> | <img src="screenshots/filters-screen.jpg" width="250"/> | <img src="screenshots/pokemon-detail-screen.jpg" width="250"/> |
 
-| Moveset | Detalhe do Golpe | Shiny Pokémons |
+| Moveset | Detalhe do Golpe | Shiny Pokémons | 
 |:-------:|:----------------:|:--------------:|
 | <img src="screenshots/mosevet-screen.jpg" width="250"/> | <img src="screenshots/move-detail-screen.jpg" width="250"/> | <img src="screenshots/shiny-pokemons-screen.jpg" width="250"/> |
+
+| Evoluções |
+|:-----------:|
+| <img src="screenshots/evolutions.jpg" width="250"/> |
 
 ---
 
@@ -120,5 +124,14 @@ lib/
 Contribuições são bem-vindas! Se você tiver ideias para novas funcionalidades ou melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 ---
+
+## 🛡️ Aviso Legal
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais e sem fins lucrativos. Ele utiliza a [PokéAPI](https://pokeapi.co/), uma API pública de dados relacionados ao universo Pokémon.
+
+Este aplicativo **não é afiliado, endossado ou patrocinado pela Nintendo, Game Freak, The Pokémon Company ou quaisquer de seus parceiros oficiais**. Todos os direitos relacionados à franquia Pokémon pertencem aos seus respectivos detentores.
+
+Se você é proprietário de algum conteúdo e deseja solicitar a remoção, por favor entre em contato.
+
 
 Feito por Amaro Miranda
