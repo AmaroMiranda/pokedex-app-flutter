@@ -100,16 +100,17 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 O projeto está organizado da seguinte forma para manter o código limpo e escalável:
 
-lib/  
-├── controllers/ # Lógica de negócio e gestão de estado das telas  
-├── models/ # Modelos de dados (Pokemon, Move, etc.)  
-├── repositories/ # Classes responsáveis pela comunicação com a API  
-├── screens/ # Widgets que representam as telas do app  
-├── services/ # Serviços de backend (Firebase Auth, Database)  
-├── theme/ # Tema visual do aplicativo (cores, fontes)  
-├── utils/ # Funções utilitárias e extensões  
-├── widgets/ # Widgets reutilizáveis (cards, loading screens)  
-└── main.dart # Ponto de entrada da aplicação
+lib/
+├── controllers/      # Lógica e estado das telas
+├── models/           # Modelos de dados (Pokemon, Move, etc.)
+├── repositories/     # Comunicação com APIs
+├── screens/          # Telas do app
+├── services/         # Firebase e outros serviços
+├── theme/            # Temas e estilos
+├── utils/            # Funções utilitárias
+├── widgets/          # Widgets reutilizáveis
+└── main.dart         # Ponto de entrada
+
 
 
 ## 🤝 Contribuições
