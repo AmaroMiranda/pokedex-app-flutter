@@ -100,6 +100,7 @@ Siga os passos abaixo para configurar e executar o projeto localmente.
 
 O projeto está organizado da seguinte forma para manter o código limpo e escalável:
 
+```
 lib/
 ├── controllers/      # Lógica e estado das telas
 ├── models/           # Modelos de dados (Pokemon, Move, etc.)
@@ -110,6 +111,7 @@ lib/
 ├── utils/            # Funções utilitárias
 ├── widgets/          # Widgets reutilizáveis
 └── main.dart         # Ponto de entrada
+```
 
 
 
