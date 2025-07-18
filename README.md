@@ -1,7 +1,7 @@
 
 # MaroDéx  pokédex-app
 
-![MaroDéx Logo](screenshots/logo.jpg)
+<img src="screenshots/logo.jpg" width="250"/>
 
 Bem-vindo à MaroDéx, uma Pokédex moderna e completa construída com Flutter. Explore o vasto mundo Pokémon, descubra detalhes sobre suas criaturas favoritas, gerencie sua lista de favoritos e muito mais!
 
@@ -46,9 +46,6 @@ Este projeto foi construído utilizando as seguintes tecnologias e pacotes:
 - **Assets**: `flutter_svg` para a exibição de ícones de tipo em formato SVG.
 - **Armazenamento Local**: `shared_preferences` e `path_provider` para cache de dados e favoritos de convidados.
 - **Áudio**: `audioplayers` para tocar os sons dos Pokémon.
-
-## 📸 Screenshots
-
 
 ## 📸 Screenshots
 
