@@ -49,32 +49,20 @@ Este projeto foi construído utilizando as seguintes tecnologias e pacotes:
 
 ## 📸 Screenshots
 
-### 🧑‍💼 Login
-![Login](screenshots/login-screen.jpg)
 
-### 🏠 Tela Inicial
-![Home](screenshots/home-screen.jpg)
+## 📸 Screenshots
 
-### 📋 Lista de Todos os Pokémon
-![All Pokémons](screenshots/all-pokemons-screen.jpg)
+| Login | Home | Todos os Pokémons |
+|:-----:|:----:|:------------------:|
+| <img src="screenshots/login-screen.jpg" width="250"/> | <img src="screenshots/home-screen.jpg" width="250"/> | <img src="screenshots/all-pokemons-screen.jpg" width="250"/> |
 
-### ⭐ Favoritos
-![Favoritos](screenshots/favorites-screen.jpg)
+| Favoritos | Filtros | Detalhes Pokémon |
+|:---------:|:-------:|:----------------:|
+| <img src="screenshots/favorites-screen.jpg" width="250"/> | <img src="screenshots/filters-screen.jpg" width="250"/> | <img src="screenshots/pokemon-detail-screen.jpg" width="250"/> |
 
-### 🔍 Detalhes do Pokémon
-![Detalhes](screenshots/pokemon-detail-screen.jpg)
-
-### ✨ Versão Shiny
-![Shiny Pokémon](screenshots/shiny-pokemons-screen.jpg)
-
-### ⚙️ Filtros
-![Filtros](screenshots/filters-screen.jpg)
-
-### 📊 Detalhes do Golpe
-![Move Detail](screenshots/move-detail-screen.jpg)
-
-### 📘 Moveset Completo
-![Moveset](screenshots/mosevet-screen.jpg)
+| Moveset | Detalhe do Golpe | Shiny Pokémons |
+|:-------:|:----------------:|:--------------:|
+| <img src="screenshots/mosevet-screen.jpg" width="250"/> | <img src="screenshots/move-detail-screen.jpg" width="250"/> | <img src="screenshots/shiny-pokemons-screen.jpg" width="250"/> |
 
 ---
 
