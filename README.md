@@ -3,7 +3,7 @@
 
 <img src="screenshots/logo.jpg" width="250"/>
 
-Bem-vindo à MaroDéx, uma Pokédex moderna e completa construída com Flutter. Explore o vasto mundo Pokémon, descubra detalhes sobre suas criaturas favoritas, gerencie sua lista de favoritos e muito mais!
+Bem-vindo à MaroDéx, uma Pokédex moderna e completa construída com Flutter. Explore o vasto mundo Pokémon, descubra detalhes sobre suas criaturas favoritas, gerencie sua lista de favoritos e muito mais!!
 
 ## ✨ Funcionalidades
 
